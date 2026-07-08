@@ -21,7 +21,7 @@ I design and build **production-ready AI applications** — LLM agents, retrieva
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | **[research-assistant](https://github.com/CHRISTIANSEBO/research-assistant)** | AI agent that searches the web in real time, synthesizes findings with cited sources | Claude · LangChain · Tavily · Python |
-| **[email-assistant](https://github.com/CHRISTIANSEBO/email-assistant)** | Personal AI assistant that reads, sorts & responds to Gmail via chat | TypeScript · LLM |
+| **[Jean](https://github.com/CHRISTIANSEBO/Jean)** | Personal AI assistant that reads, sorts & responds to Gmail via chat | TypeScript · LLM |
 
 ### 📜 Certifications
 
