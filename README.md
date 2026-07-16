@@ -9,7 +9,7 @@
 
 ### 🤖 What I do
 
-I design and build **production-ready AI applications** — LLM agents, retrieval-augmented generation (RAG) pipelines, and end-to-end automation workflows. I care about systems that are reliable, well-documented, and actually solve real problems.
+I design and build **production-ready AI applications** LLM agents, retrieval-augmented generation (RAG) pipelines, and end-to-end automation workflows. I care about systems that are reliable, well-documented, and actually solve real problems.
 
 - 🧠 **AI Agents & Orchestration** — LangChain, LangGraph, multi-tool ReAct agents
 - 🔌 **LLM Integration** — Anthropic Claude API, OpenAI API, RAG, prompt engineering
