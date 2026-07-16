@@ -8,7 +8,7 @@
 
 ### 🤖 What I actually build
 
-AI systems that solve real problems — LLM agents that use tools, RAG pipelines that cite their sources, and automation that quietly does the boring stuff for you.
+AI systems that solve real problems; LLM agents that use tools, RAG pipelines that cite their sources, and automation that quietly does the boring stuff for you.
 
 <br>
 
@@ -56,7 +56,6 @@ AI systems that solve real problems — LLM agents that use tools, RAG pipelines
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHRISTIANSEBO&layout=compact&hide_border=true&theme=tokyonight&langs_count=6)
 ![Streak](https://streak-stats.demolab.com?user=CHRISTIANSEBO&hide_border=true&theme=tokyonight)
 
 </div>
