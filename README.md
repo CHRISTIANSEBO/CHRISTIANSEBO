@@ -38,17 +38,17 @@ AI systems that solve real problems; LLM agents that use tools, RAG pipelines th
 
 ### 🚀 Things I'm proud of
 
+**[🗂️ UAP Archive](https://github.com/CHRISTIANSEBO/uap-archive)** — A searchable archive of 250 declassified Project Blue Book cases with OCR confidence gates, source-grounded summaries, and links to original records.
+`Python` · `FastAPI` · `Postgres` · `pgvector` · `React`
+
 **[✅ LLMQA](https://github.com/CHRISTIANSEBO/LLMQA)** — A quality-assurance harness for LLMs: golden datasets, pluggable metrics, and CI regression gates. Because "it looked fine when I tested it" isn't good enough.
 `Python` · `CI`
 
-**[📧 Jean](https://github.com/CHRISTIANSEBO/Jean)** — A personal email assistant that reads, sorts, and replies to your Gmail through a chat interface.
-`TypeScript` · `LLM`
-
-**[💰 AirGead-Banking](https://github.com/CHRISTIANSEBO/AirGead-Banking)** — An investment calculator demonstrating compound interest with modular, maintainable code.
-`TypeScript`
-
 **[🔍 research-assistant](https://github.com/CHRISTIANSEBO/research-assistant)** — An AI agent that searches the web live, synthesizes findings, and cites its sources.
 `Claude` · `LangChain` · `Tavily` · `Python`
+
+**[📧 Jean](https://github.com/CHRISTIANSEBO/Jean)** — A personal email assistant that reads, sorts, and replies to your Gmail through a chat interface.
+`TypeScript` · `LLM`
 
 <br>
 
